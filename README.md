@@ -1,2 +1,3 @@
 # Live-Demos
-Live Demos for the ACM AI's first meeting of 2017
+
+As part of our first meeting for the 2017-2018 year, we showed the following live demos.
