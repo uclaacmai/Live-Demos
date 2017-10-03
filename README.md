@@ -21,7 +21,7 @@ To see the convolutional neural networks demo, just launch a Jupyter notebook by
     jupyter notebook
      
 
-To see style transfer, run the following shell script with the argument being the style you want for the images. The choices of styles can be found [here](https://github.com/uclaacmai/Live-Demos/tree/master/fast-style-transfer/models)   
+To see style transfer (currently works with TF version 0.11 but check out the original [repo](https://github.com/lengstrom/fast-style-transfer) for updates), run the following shell script with the argument being the style you want for the images. The choices of styles can be found [here](https://github.com/uclaacmai/Live-Demos/tree/master/fast-style-transfer/models)   
 
     
     ./styleTransfer.sh scream
