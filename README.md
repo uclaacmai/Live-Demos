@@ -11,19 +11,18 @@ As part of our first meeting for the 2017-2018 year, we showed the following liv
 In order to run these demos, you'll need [TensorFlow](https://www.tensorflow.org/install/) and [Jupyter](https://jupyter.readthedocs.io/en/latest/install.html). 
 
 The first step is to clone the repository.
-
    ```bash
    git clone https://github.com/uclaacmai/Live-Demos.git
    ```
 
 To see the convolutional neural networks demo, just launch a Jupyter notebook by entering
 
-    ```bash
+    
     jupyter notebook
-    ```  
+     
 
 To see style transfer, run the following shttps://github.com/uclaacmai/Live-Demos/tree/master/fast-style-transfer/modelshell script with the argument being the style you want for the images. The choices of styles can be found [here](https://github.com/uclaacmai/Live-Demos/tree/master/fast-style-transfer/models)   
 
-    ```bash
+    
     ./styleTransfer.sh scream
-    ```  
+    
